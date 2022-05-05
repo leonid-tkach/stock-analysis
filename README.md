@@ -23,7 +23,7 @@ SPWR | DOWN | DOWN | -
 TERP | UP | DOWN | -
 VSLR | UP | DOWN | -
 
-Here is more detailed statistics in case anyone needs fine-tune their portfolio.
+Here is more detailed statistics in case anyone needs to fine-tune their portfolio.
 
 ![](./Resources/stock_perf_2017.png) | ![](./Resources/stock_perf_2018.png)
 
